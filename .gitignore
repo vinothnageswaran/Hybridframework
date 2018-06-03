@@ -50,5 +50,9 @@ log/
 .DS_Store
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+<<<<<<< HEAD
 hs_err_pid*
 /bin/
+=======
+hs_err_pid*
+>>>>>>> refs/remotes/origin/master
